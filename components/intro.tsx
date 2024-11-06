@@ -7,10 +7,10 @@ export default function Intro() {
             <div className="mt-2 flex-1 md:mt-0">
                 <h1 className="title no-underline">Hey, I&#39;m Bayu.</h1>
                 <p className="mt-3 font-light text-muted-foreground">
-                    I&#39;m a Bali based digital marketer and also a web developer with a focus on building tailored
-                    online experiences for businesses, particularly in hospitality and branding. I&#39;m continually
-                    exploring new technologies, and I&#39;m dedicated to sharing knowledge to help clients and peers
-                    grow.
+                    I&#39;m a Bali based Web Developer and also a passionate and seasoned Digital Marketing with a
+                    strong focus on Search Engine Optimization and Analythic Integration. Well-versed in modern web
+                    technologies. I&#39;m a collaborative team player dedicated to delivering efficient, scalable, and
+                    visually engaging web applications.
                 </p>
             </div>
             <div className="relative">
